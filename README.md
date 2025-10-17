@@ -43,6 +43,10 @@ The project followed a systematic approach to model development:
 
 
 ---
+## Test Score
+98%
+
+---
 ## ⚙️ Model and Algorithm
 
 ### **Algorithm Used: Decision Tree Classifier** 🌳
